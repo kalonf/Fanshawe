@@ -17,3 +17,6 @@ fieldset {
 ### Prerequisites
 
 A knowledge of HTML5 is a pre-requisite for this course.
+
+
+Week 2 assignment uploaded form_nostyle.html and form_style.css
