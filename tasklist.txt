@@ -1,1 +1,21 @@
 Place to keep Assignment Tasks
+
+*Add two descendant selectors to your last assignment.  This will include adding the selectors to your CSS file and may include changes to your HTML file if two unique descendants are not currently available.
+
+*Add two child selectors to your last assignment.
+
+*Add one sibling selector to your last assignment.
+
+*Add an adjacent sibling selector to your last assignment.
+
+*In the tasklist.txt file, cut and paste all the assignment task steps from this presentation and then commit and push the file to the remote repository.
+
+---
+Tasks not noted as Assignment Tasks
+---
+-Commit and Push the changes to your assignment to the remote repository.
+-Add tasklist.txt to your repository directory.
+-Add a single line: “Place to keep Assignment Tasks".
+-Save the file and navigate back to the GitHub desktop.
+-Replace the text with: “Adding task list” and Commit to Master.
+-Repeat the next steps necessary to push the changes backto the origin (or remote repository).
